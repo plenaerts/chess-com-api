@@ -57,7 +57,7 @@ The documentation is organized into several sections:
 
 If you encounter any problems or have questions:
 
-1. Check the [Troubleshooting](user-guide/troubleshooting.md) guide
+1. Check the [Troubleshooting](getting-started/installation.md#troubleshooting) guide
 2. Search existing [GitHub Issues](https://github.com/Stupidoodle/chess-com-api/issues)
 3. Create a new issue if your problem isn't already reported
 

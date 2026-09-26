@@ -114,7 +114,6 @@ nav:
       - Game Analysis: examples/game-analysis.md
       - Tournament Integration: examples/tournament-integration.md
   - Contributing: CONTRIBUTING.md
-  - Changelog: changelog.md
 
 extra:
   social:

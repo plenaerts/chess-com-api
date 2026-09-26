@@ -255,7 +255,7 @@ See the [Contributing Guide](../contributing.md) for detailed instructions.
 
 ### How do I report security issues?
 
-Please refer to our [Security Policy](../../SECURITY.md) for reporting security issues.
+Please refer to our [Security Policy](../SECURITY.md) for reporting security issues.
 
 ## See Also
 
